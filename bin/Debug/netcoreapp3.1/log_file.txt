@@ -1,0 +1,321 @@
+2021-03-05 18:20:03.5853|INFO|MediaLibrary.Program|Program started
+2021-03-05 18:20:03.6085|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:04:48.4882|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:04:48.5102|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:05:37.5715|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:05:37.5971|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:11:47.0017|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:11:47.0250|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:16:26.1870|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:16:26.2245|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-03-05 19:16:26.2245|ERROR|MediaLibrary.FileScrubber|Could not find file 'C:\Users\megun\Desktop\College\.NetDatabase\MediaLibrary\movies.csv'.
+2021-03-05 19:16:26.2245|INFO|MediaLibrary.Program|
+2021-03-05 19:16:26.2245|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:18:02.6352|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:18:02.6785|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 19:18:02.6785|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 19:18:02.6785|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:18:23.3131|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:18:23.3472|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-03-05 19:18:23.3619|INFO|MediaLibrary.FileScrubber|File scrub ended
+2021-03-05 19:18:23.3619|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 19:18:23.3619|INFO|MediaLibrary.Program|Program ended
+2021-03-05 19:50:31.9725|INFO|MediaLibrary.Program|Program started
+2021-03-05 19:50:32.0043|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 19:50:32.0043|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 19:50:32.0043|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 19:50:47.5589|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 20:30:29.9225|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 20:30:29.9415|INFO|MediaLibrary.Program|Program ended
+2021-03-05 20:30:43.6374|INFO|MediaLibrary.Program|Program started
+2021-03-05 20:30:43.6728|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 20:30:43.6728|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 20:30:43.6728|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 20:30:57.8302|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 20:31:15.4843|ERROR|MediaLibrary.MovieFile|Sequence contains no elements
+2021-03-05 20:31:15.4843|INFO|MediaLibrary.Program|Media ID 0 added
+2021-03-05 20:32:49.9864|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 20:32:49.9864|INFO|MediaLibrary.Program|Program ended
+2021-03-05 20:32:53.2897|INFO|MediaLibrary.Program|Program started
+2021-03-05 20:32:53.3282|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 20:32:54.3380|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 20:48:46.0147|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 20:48:46.0147|INFO|MediaLibrary.Program|Program ended
+2021-03-05 20:49:24.8573|INFO|MediaLibrary.Program|Program started
+2021-03-05 20:49:24.8909|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 20:49:24.8909|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 20:49:24.8909|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 20:49:54.0489|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 20:50:02.9491|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 20:50:17.7758|ERROR|MediaLibrary.MovieFile|Sequence contains no elements
+2021-03-05 20:50:17.7768|INFO|MediaLibrary.Program|Media ID 0 added
+2021-03-05 20:50:22.8095|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 20:54:52.9103|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 20:54:52.9219|INFO|MediaLibrary.Program|Program ended
+2021-03-05 20:54:55.3961|INFO|MediaLibrary.Program|Program started
+2021-03-05 20:54:55.4293|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 20:54:55.4293|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 20:54:55.4293|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\Users\megun\Desktop\College\.NetDatabase\MediaLibrarymovies.scrubbed.csv'.
+2021-03-05 20:55:01.3772|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 20:55:02.2300|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 20:55:02.2300|INFO|MediaLibrary.Program|Program ended
+2021-03-05 20:56:59.1050|INFO|MediaLibrary.Program|Program started
+2021-03-05 20:56:59.1381|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 20:56:59.1381|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 20:56:59.1381|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 20:57:04.3971|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:06:24.6605|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:06:24.6605|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:06:27.8973|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:06:27.9302|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:06:27.9302|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:06:27.9350|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:06:34.0840|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:06:34.0908|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:06:36.6360|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:06:36.6699|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:09:36.3231|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:09:36.3231|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:09:38.7228|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:09:38.7565|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:09:38.7565|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:09:38.7610|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:09:42.2330|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:09:55.7164|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:09:55.7164|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:12:05.7612|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:12:05.7960|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:12:05.7960|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:12:05.7960|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:12:07.0623|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:12:40.0506|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:12:40.0506|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:12:43.5712|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:12:43.6040|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:12:43.6047|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:12:43.6047|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:12:44.3711|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:13:02.3946|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:13:02.3946|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:13:16.9427|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:13:16.9762|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:13:16.9762|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:13:16.9821|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:13:18.6305|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:19:09.7580|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:19:09.7580|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:19:12.1009|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:19:12.1344|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:19:12.1344|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:19:12.1394|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:19:13.1292|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:26:44.7612|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:26:44.7612|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:26:47.0312|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:26:47.0653|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:26:47.0653|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:26:47.0653|ERROR|MediaLibrary.MovieFile|Index was outside the bounds of the array.
+2021-03-05 21:26:48.2507|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:30:19.1874|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:30:19.1874|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:30:22.9548|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:30:22.9896|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:30:22.9896|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:30:22.9896|ERROR|MediaLibrary.MovieFile|Index was outside the bounds of the array.
+2021-03-05 21:30:24.8502|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:30:53.7011|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:30:53.7011|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:30:56.8743|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:30:56.9103|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-03-05 21:30:56.9250|INFO|MediaLibrary.FileScrubber|File scrub ended
+2021-03-05 21:30:56.9250|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:30:56.9250|ERROR|MediaLibrary.MovieFile|Index was outside the bounds of the array.
+2021-03-05 21:31:06.9507|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:31:35.8850|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:31:35.8867|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:31:38.6238|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:31:38.6585|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:31:38.6585|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:31:38.6585|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:31:39.6835|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:35:10.3963|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:35:10.3963|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:35:13.2192|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:35:13.2540|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:35:13.2540|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:35:13.2540|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:35:14.7996|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:41:16.2615|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:41:16.2615|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:41:18.9690|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:41:19.0021|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:41:19.0021|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:41:19.0021|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 21:42:06.4696|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:42:39.6848|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:42:39.6848|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:42:42.1082|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:42:42.1404|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:42:42.1404|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:42:42.1404|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 21:42:45.7372|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:48:38.0889|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:48:38.0923|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:48:42.9371|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:48:42.9762|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:48:42.9762|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:48:42.9820|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2021-03-05 21:48:43.9743|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:51:08.3866|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:51:08.3866|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:51:11.0478|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:51:11.0822|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:51:11.0822|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:51:11.0822|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 21:51:12.0425|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:57:04.3359|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:57:04.3359|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:57:06.9925|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:57:07.0271|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:57:07.0271|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:57:07.0271|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 21:57:08.1866|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 21:58:22.9390|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 21:58:22.9390|INFO|MediaLibrary.Program|Program ended
+2021-03-05 21:58:25.6311|INFO|MediaLibrary.Program|Program started
+2021-03-05 21:58:25.6627|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 21:58:25.6627|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 21:58:25.6681|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 21:58:26.6285|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:02:50.8705|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:02:50.8705|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:02:54.4809|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:02:54.5177|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:02:54.5177|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:02:54.5177|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 22:02:55.4149|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 22:03:11.3397|ERROR|MediaLibrary.MovieFile|The process cannot access the file 'C:\Users\megun\Desktop\College\.NetDatabase\MediaLibrary\movies.scrubbed.csv' because it is being used by another process.
+2021-03-05 22:03:11.3397|INFO|MediaLibrary.Program|Media ID 11 added
+2021-03-05 22:03:56.1373|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:03:56.1373|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:03:58.2318|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:03:58.2651|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:03:58.2651|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:03:58.2651|ERROR|MediaLibrary.MovieFile|Index and length must refer to a location within the string. (Parameter 'length')
+2021-03-05 22:03:58.8537|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 22:04:08.4002|ERROR|MediaLibrary.MovieFile|The process cannot access the file 'C:\Users\megun\Desktop\College\.NetDatabase\MediaLibrary\movies.scrubbed.csv' because it is being used by another process.
+2021-03-05 22:04:08.4058|INFO|MediaLibrary.Program|Media ID 11 added
+2021-03-05 22:04:53.1212|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:04:53.1212|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:06:15.7771|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:06:15.8119|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:06:15.8119|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:06:15.8428|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:06:20.1886|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:09:21.4247|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:09:21.4247|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:09:25.3965|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:09:25.4303|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:09:25.4303|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:09:25.4607|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:09:27.3782|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 22:09:39.0659|INFO|MediaLibrary.MovieFile|Movie id 164980 added
+2021-03-05 22:09:39.0659|INFO|MediaLibrary.Program|Media ID 164980 added
+2021-03-05 22:09:53.2366|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:13:07.8750|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:13:07.8750|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:13:12.2961|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:13:12.3308|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:13:12.3308|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:13:12.3589|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:13:13.5230|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 22:13:26.9942|INFO|MediaLibrary.MovieFile|Movie id 164980 added
+2021-03-05 22:13:26.9961|INFO|MediaLibrary.Program|Media ID 164980 added
+2021-03-05 22:13:50.2015|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:18:18.7388|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:18:18.7388|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:18:21.4644|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:18:21.4975|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:18:21.4975|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:18:21.5285|ERROR|MediaLibrary.MovieFile|String 'kids' was not recognized as a valid TimeSpan.
+2021-03-05 22:18:50.8331|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:18:50.8393|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:19:01.7475|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:19:01.7805|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:19:01.7805|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:19:01.8118|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:19:05.9979|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:23:59.2019|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:23:59.2019|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:24:02.5169|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:24:02.5506|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:24:02.5506|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:24:02.5506|ERROR|MediaLibrary.MovieFile|startIndex cannot be larger than length of string. (Parameter 'startIndex')
+2021-03-05 22:24:04.5801|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:24:31.6839|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:24:31.6839|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:24:35.1562|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:24:35.1924|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:24:35.1924|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:24:35.1987|ERROR|MediaLibrary.MovieFile|startIndex cannot be larger than length of string. (Parameter 'startIndex')
+2021-03-05 22:24:35.7607|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:31:59.6712|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:31:59.6712|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:32:05.2470|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:32:05.2840|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:32:05.2840|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:32:05.2840|ERROR|MediaLibrary.MovieFile|Length cannot be less than zero. (Parameter 'length')
+2021-03-05 22:32:46.3717|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:32:46.3717|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:32:48.9256|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:32:48.9594|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:32:48.9594|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:32:48.9921|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:32:53.5310|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:34:11.2908|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:34:11.2925|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:34:13.9097|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:34:13.9415|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:34:13.9415|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:34:13.9415|ERROR|MediaLibrary.MovieFile|Length cannot be less than zero. (Parameter 'length')
+2021-03-05 22:37:00.8987|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:37:00.9047|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:37:03.6020|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:37:03.6379|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:37:03.6379|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:37:03.6379|ERROR|MediaLibrary.MovieFile|Length cannot be less than zero. (Parameter 'length')
+2021-03-05 22:38:37.1393|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:38:37.1393|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:38:40.0698|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:38:40.1014|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:38:40.1014|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:38:40.1310|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:38:45.5211|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:39:33.0395|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:39:33.0395|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:39:35.9488|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:39:35.9805|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:39:35.9805|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:39:36.0076|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:39:38.3100|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:41:03.9499|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:41:03.9499|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:41:06.9039|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:41:06.9360|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:41:06.9360|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:41:06.9642|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:41:08.4977|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 22:41:20.7266|INFO|MediaLibrary.MovieFile|Movie id 164980 added
+2021-03-05 22:41:20.7266|INFO|MediaLibrary.Program|Media ID 164980 added
+2021-03-05 22:41:36.3514|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:41:36.3514|INFO|MediaLibrary.Program|Program ended
+2021-03-05 22:42:40.8260|INFO|MediaLibrary.Program|Program started
+2021-03-05 22:42:40.8599|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-05 22:42:40.8599|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-05 22:42:40.8891|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-05 22:42:41.8318|INFO|MediaLibrary.Program|User choice: "1"
+2021-03-05 22:42:53.6992|INFO|MediaLibrary.MovieFile|Movie id 164980 added
+2021-03-05 22:42:53.6992|INFO|MediaLibrary.Program|Media ID 164980 added
+2021-03-05 22:43:02.6476|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-05 22:44:56.2423|INFO|MediaLibrary.Program|User choice: ""
+2021-03-05 22:44:56.2423|INFO|MediaLibrary.Program|Program ended
