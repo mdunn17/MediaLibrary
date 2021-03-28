@@ -1,6 +1,7 @@
 ﻿using System;
 using NLog.Web;
 using System.IO;
+using System.Linq;
 
 namespace MediaLibrary
 {
@@ -59,6 +60,7 @@ namespace MediaLibrary
             {
                 Console.WriteLine("1) Add Movie");
                 Console.WriteLine("2) Display All Movies");
+                Console.WriteLine("3) Search for a Movie Title");
                 Console.WriteLine("Enter to quit");
 
                 choice = Console.ReadLine();
@@ -103,8 +105,22 @@ namespace MediaLibrary
                         Console.WriteLine(m.Display());
                     }
                      
+                } else if (choice == "3")
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
+
+                    Console.WriteLine("Enter the title you wish to search for:");
+                    string input = Console.ReadLine();
+                    var titles = movieFile.Movies.Where(m => m.title.Contains(input)).Select(m => m.title);
+                    Console.WriteLine($"There are {titles.Count()} movies with a matching title:");
+                    foreach(string t in titles)
+                    {
+                        Console.WriteLine($"   {t}");
+                    }
+
+            Console.ForegroundColor = ConsoleColor.White;
                 }
-            } while (choice == "1" || choice == "2");
+            } while (choice == "1" || choice == "2" || choice == "3");
 
             logger.Info("Program ended");
         }

@@ -319,3 +319,21 @@
 2021-03-05 22:43:02.6476|INFO|MediaLibrary.Program|User choice: "2"
 2021-03-05 22:44:56.2423|INFO|MediaLibrary.Program|User choice: ""
 2021-03-05 22:44:56.2423|INFO|MediaLibrary.Program|Program ended
+2021-03-19 22:45:15.3353|INFO|MediaLibrary.Program|Program started
+2021-03-19 22:45:15.3677|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-19 22:45:15.3677|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-19 22:45:15.3962|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2021-03-20 19:45:37.0600|INFO|MediaLibrary.Program|Program started
+2021-03-20 19:45:37.0917|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-20 19:45:37.0917|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-20 19:45:37.1136|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2021-03-20 19:45:38.5647|INFO|MediaLibrary.Program|User choice: "2"
+2021-03-27 19:12:04.3788|INFO|MediaLibrary.Program|Program started
+2021-03-27 19:12:04.4142|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-27 19:12:04.4142|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-27 19:12:04.4495|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2021-03-27 19:12:08.1134|INFO|MediaLibrary.Program|User choice: "3"
+2021-03-27 19:13:13.6139|INFO|MediaLibrary.Program|User choice: "3"
+2021-03-27 19:13:35.1314|INFO|MediaLibrary.Program|User choice: "3"
+2021-03-27 19:13:41.6573|INFO|MediaLibrary.Program|User choice: ""
+2021-03-27 19:13:41.6573|INFO|MediaLibrary.Program|Program ended
